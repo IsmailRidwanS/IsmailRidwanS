@@ -135,6 +135,18 @@
 | <img src="https://img.shields.io/badge/Code-Java_Programming-red?logo=oracle&logoColor=white" /> | **Programming in Java** | **90%** | [cite_start]Infosys [cite: 48, 50] |
 
 ---
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmailRidwanS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailRidwanS&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="800">
+  </picture>
+</div>
+ ---
 
 <div align="center">
   <p>
