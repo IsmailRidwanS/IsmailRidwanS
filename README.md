@@ -5,12 +5,12 @@
 <div align="center">
   <h3>🚀 About Me</h3>
   <p>
-     I am a <b>Data Science Intern</b> [cite: 12] and Computer Science Engineering student [cite: 8] based in Chennai[cite: 4].<br>
-     My focus lies in building robust <b>Deep Learning pipelines</b>, optimizing <b>Computer Vision</b> models, and automating workflows with <b>Bash & Linux</b>.
+     I am a <b>Data Science Intern</b> specializing in <b>Deep Learning pipelines</b> and <b>Computer Vision</b> optimization.<br>
+     My workflow is driven by <b>Linux (Hyprland)</b>, emphasizing automation and efficiency in model deployment.
   </p>
   <p>
     🌱 <b>Currently Learning:</b> Japanese (日本語) & Advanced System Architecture <br>
-    🐧 <b>Hobbies:</b> Customizing Linux (Hyprland/SDDM) & UI/UX Design
+    🐧 <b>System:</b> Arch Linux / Hyprland / Wayland
   </p>
 </div>
 
@@ -18,7 +18,6 @@
 
 <div align="center">
   <h2>🛠️ Technical Arsenal</h2>
-  <p><i>Languages, Frameworks, and Tools I use to build and deploy.</i></p>
 </div>
 
 <table align="center">
@@ -91,36 +90,49 @@
 </table>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Specialties-ONNX_%7C_SHAP_%7C_Optuna_%7C_GeoPandas_%7C_Leafmap-7AA2F7?style=for-the-badge&logoColor=black" alt="Specialties" />
+    <img src="https://img.shields.io/badge/Stack-ONNX_%7C_SHAP_%7C_Optuna_%7C_GeoPandas_%7C_Leafmap-7AA2F7?style=for-the-badge&logoColor=black" alt="Specialties" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>📜 Certifications & Achievements</h2>
+  <h2>💼 Professional Experience</h2>
 </div>
 
-| Badge | Certification | Score | Organization |
+| **Role / Organization** | **Key Technical Contributions** |
+| :--- | :--- |
+| **Data Science Intern** <br> *Postulate InfoTech Pvt. Ltd* | [cite_start]• Engineered **PSO & ACO algorithms**, achieving a **20% efficiency boost** in detection systems [cite: 16][cite_start].<br>• Developed machine learning models to solve complex data-driven performance challenges[cite: 17]. |
+
+---
+
+<div align="center">
+  <h2>🔬 Research & Innovation</h2>
+</div>
+
+> *I focus on solving novel problems through algorithmic consistency and hardware-software integration.*
+
+* **Patent Pending:** Developing an AI-driven safety system for pressure cookers utilizing IoT and ML.
+* [cite_start]**Geospatial Intelligence:** Expert in Mineral Prospectivity Mapping using **LightGBM + Optuna** with geospatial data fusion[cite: 21].
+* [cite_start]**Medical Diagnostics:** Built end-to-end pipelines for Cancer Detection (Oral/Skin) using **CNNs** and **ONNX** for edge deployment[cite: 27, 28].
+
+<div align="center">
+   <a href="https://github.com/IsmailRidwanS?tab=repositories">
+     <img src="https://img.shields.io/badge/Check_My_Dotfiles-Running_Hyprland-9bf6ff?style=for-the-badge&logo=archlinux&logoColor=black" alt="Dotfiles" />
+   </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>📜 Industry Certifications</h2>
+</div>
+
+| Badge | Certification | Score | Authority |
 | :---: | :--- | :---: | :--- |
-| <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonaws&logoColor=white" /> | [cite_start]**AWS Cloud Practitioner Essentials** [cite: 37] | **80%** | AWS |
-| <img src="https://img.shields.io/badge/Security-Cybersecurity_Essentials-0050ef?logo=cisco&logoColor=white" /> | [cite_start]**Cybersecurity Essentials** [cite: 46] | **97%** | Cisco |
-| <img src="https://img.shields.io/badge/Network-Networking_Essentials-1ba0d7?logo=cisco&logoColor=white" /> | [cite_start]**Networking Essentials** [cite: 42] | **92%** | Cisco |
-| <img src="https://img.shields.io/badge/Code-Java_Programming-red?logo=oracle&logoColor=white" /> | [cite_start]**Programming in Java** [cite: 48] | **90%** | Infosys Springboard |
-| <img src="https://img.shields.io/badge/DSA-Data_Structures-lightgrey?logo=coursera&logoColor=black" /> | [cite_start]**Data Structures & Algorithms** [cite: 40] | **87%** | UC San Diego |
-
----
-
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmailRidwanS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailRidwanS&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="800">
-  </picture>
-</div>
+| <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonaws&logoColor=white" /> | **AWS Cloud Practitioner Essentials** | **80%** | [cite_start]AWS [cite: 37, 39] |
+| <img src="https://img.shields.io/badge/Security-Cybersecurity_Essentials-0050ef?logo=cisco&logoColor=white" /> | **Cybersecurity Essentials** | **97%** | [cite_start]Cisco [cite: 46, 47] |
+| <img src="https://img.shields.io/badge/Network-Networking_Essentials-1ba0d7?logo=cisco&logoColor=white" /> | **Networking Essentials** | **92%** | [cite_start]Cisco [cite: 44, 45] |
+| <img src="https://img.shields.io/badge/Code-Java_Programming-red?logo=oracle&logoColor=white" /> | **Programming in Java** | **90%** | [cite_start]Infosys [cite: 48, 50] |
 
 ---
 
